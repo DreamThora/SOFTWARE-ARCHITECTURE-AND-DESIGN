@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Width = " + reg2.getWidth());
         System.out.println("Height = " + height);
         System.out.println("Area = " + reg2.getArea());
-    }
+        //test
+   }
 }
